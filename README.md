@@ -17,6 +17,19 @@ The main analyses include:
 * Gene Ontology enrichment analysis
 * cross-cell-type sharing analysis
 
+```
+code/
+├── 00_cellranger.sh
+├── 01_Data_import_and_Processing.py
+├── 02_decontx.R
+├── 03_Basic_Process_for_the_remove_ambientRNA_count.py
+├── 04_integration_scvi.py
+├── 05_composition_analysis.R
+├── 06_pseudobulk_DE.R
+├── 07_GO.R
+└── 08_cross_celltype_sharing.R
+```
+
 
 ## Requirements
 
