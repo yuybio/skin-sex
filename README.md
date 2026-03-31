@@ -1,4 +1,4 @@
-# skin-sex
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d8e3b239-f71c-4b2f-b337-fb53e57aa69e" /># skin-sex
 
 Code accompanying the manuscript:
 
@@ -35,8 +35,9 @@ code/
 
 Analyses were performed using:
 
-* Python 3.9
-* R 4.2.1
+* Cell Ranger: v6.1.2
+* Python: 3.9 (Scanpy v1.9.3; scvi-tools v0.19.0; Scrublet v0.2.3)
+* R: 4.2.1 (DaMiRseq v2.8.0; limma v3.52.4;  clusterProfiler v4.4.4; ComplexHeatmap v2.15.4)
 
 Main packages include Scanpy, scvi-tools, Scrublet, limma, DaMiRseq, clusterProfiler, ComplexHeatmap, and ggplot2.
 
