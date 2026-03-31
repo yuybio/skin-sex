@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/d8e3b239-f71c-4b2f-b337-fb53e57aa69e" /># skin-sex
+# skin-sex
 
 Code accompanying the manuscript:
 
